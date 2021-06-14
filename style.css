@@ -65,6 +65,9 @@ section{
 .orange-color{
     color: orange;
 }
+.padding{
+    padding-right: 30px;
+}
 .single-experience{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
